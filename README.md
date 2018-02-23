@@ -1,7 +1,7 @@
 # Student-Intervention-System
 Student Intervention System study for Udacity Machine Learning course.
 
-#Dataset
+# Dataset Attributes information
 
 Attributes for student-data.csv:
 
